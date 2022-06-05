@@ -92,12 +92,13 @@ public class LoginPage extends PageBase {
 		return  this;
 	}
 
-	public CreateDeliveryPage goToCreateDelivery() {
+	public CreateDeliveryPage goToCreateDelivery() throws InterruptedException {
 		this.load();
 		clickEmailAndPasswordLoginLink();
 		enterEmail(TestBase.data.getProperty("real.email"));
 		enterPassword(TestBase.data.getProperty("real.password"));
 		singIn().isHomeOk();
+		Thread.sleep(1000);
 		load("create-delivery");
 		return new CreateDeliveryPage(driver);
 	}

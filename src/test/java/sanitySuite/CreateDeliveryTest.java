@@ -17,9 +17,11 @@ public class CreateDeliveryTest extends TestBase {
     }
 
     @Test(priority=5, description = "Navigate to create delivery page")
-    public void  login_to_real_account_and_navigate_to_create_delivery() {
+    public void  login_to_real_account_and_navigate_to_create_delivery() throws InterruptedException {
         log.info("login to real user account and navigate to create delivery page");
+        Thread.sleep(1000);
         createDelivery = login.goToCreateDelivery();
+        Thread.sleep(1000);
         assertCondition(createDelivery.isUrlOk());
         log.info("Perform base validation on first loading");
         assertCondition(createDelivery.basePageValidation());

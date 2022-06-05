@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="175.658" tests="15" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="201.264" tests="15" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="18.0.1+10-24"/>
@@ -60,19 +60,19 @@
     <property name="sun.stdout.encoding" value="cp850"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="wrong_email_login_attempt" classname="sanitySuite.LoginPageTest" time="5.883"/>
-  <testcase name="wrong_email_login_attempt" classname="sanitySuite.LoginPageTest" time="4.885"/>
-  <testcase name="wrong_email_login_attempt" classname="sanitySuite.LoginPageTest" time="11.898"/>
-  <testcase name="wrong_password_login_attempt" classname="sanitySuite.LoginPageTest" time="4.728"/>
-  <testcase name="wrong_password_login_attempt" classname="sanitySuite.LoginPageTest" time="11.838"/>
-  <testcase name="wrong_password_login_attempt" classname="sanitySuite.LoginPageTest" time="12.548"/>
-  <testcase name="responsive_login_page_test" classname="sanitySuite.LoginPageTest" time="4.336"/>
-  <testcase name="responsive_login_page_test" classname="sanitySuite.LoginPageTest" time="5.02"/>
-  <testcase name="responsive_login_page_test" classname="sanitySuite.LoginPageTest" time="4.602"/>
-  <testcase name="real_email_and_password_login_verify" classname="sanitySuite.LoginPageTest" time="4.906"/>
-  <testcase name="real_email_and_password_login_verify" classname="sanitySuite.LoginPageTest" time="5.489"/>
-  <testcase name="real_email_and_password_login_verify" classname="sanitySuite.LoginPageTest" time="5.748"/>
-  <testcase name="login_to_real_account_and_navigate_to_create_delivery" classname="sanitySuite.CreateDeliveryTest" time="15.854"/>
-  <testcase name="login_to_real_account_and_navigate_to_create_delivery" classname="sanitySuite.CreateDeliveryTest" time="22.485"/>
-  <testcase name="login_to_real_account_and_navigate_to_create_delivery" classname="sanitySuite.CreateDeliveryTest" time="22.624"/>
+  <testcase name="wrong_email_login_attempt" classname="sanitySuite.LoginPageTest" time="4.107"/>
+  <testcase name="wrong_email_login_attempt" classname="sanitySuite.LoginPageTest" time="5.912"/>
+  <testcase name="wrong_email_login_attempt" classname="sanitySuite.LoginPageTest" time="5.987"/>
+  <testcase name="wrong_password_login_attempt" classname="sanitySuite.LoginPageTest" time="11.749"/>
+  <testcase name="wrong_password_login_attempt" classname="sanitySuite.LoginPageTest" time="4.923"/>
+  <testcase name="wrong_password_login_attempt" classname="sanitySuite.LoginPageTest" time="4.954"/>
+  <testcase name="responsive_login_page_test" classname="sanitySuite.LoginPageTest" time="8.503"/>
+  <testcase name="responsive_login_page_test" classname="sanitySuite.LoginPageTest" time="16.904"/>
+  <testcase name="responsive_login_page_test" classname="sanitySuite.LoginPageTest" time="4.506"/>
+  <testcase name="real_email_and_password_login_verify" classname="sanitySuite.LoginPageTest" time="13.521"/>
+  <testcase name="real_email_and_password_login_verify" classname="sanitySuite.LoginPageTest" time="5.226"/>
+  <testcase name="real_email_and_password_login_verify" classname="sanitySuite.LoginPageTest" time="13.418"/>
+  <testcase name="login_to_real_account_and_navigate_to_create_delivery" classname="sanitySuite.CreateDeliveryTest" time="27.289"/>
+  <testcase name="login_to_real_account_and_navigate_to_create_delivery" classname="sanitySuite.CreateDeliveryTest" time="26.796"/>
+  <testcase name="login_to_real_account_and_navigate_to_create_delivery" classname="sanitySuite.CreateDeliveryTest" time="25.737"/>
 </testsuite>
