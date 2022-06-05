@@ -1,0 +1,4 @@
+pages\LoginPage.class
+sanitySuite\CreateDeliveryTest.class
+pages\CreateDeliveryPage.class
+sanitySuite\LoginPageTest.class

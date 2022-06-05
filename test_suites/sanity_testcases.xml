@@ -1,0 +1,24 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+  
+<suite name="TestAutomation-SanitySuite" verbose="1" parallel="false">
+
+    <test name="Sanity Tests execution over Chrome Browser" preserve-order="true" verbose="2">
+        <parameter name="browser" value="CHROME"></parameter>
+        <packages>
+            <package name="sanitySuite"></package>
+        </packages>
+    </test>
+    <test name="Sanity Tests execution over Firefox Browser" preserve-order="true" verbose="2">
+        <parameter name="browser" value="FIREFOX"></parameter>
+        <packages>
+            <package name="sanitySuite"></package>
+        </packages>
+    </test>
+    <test name="Sanity Tests execution over Edge Browser" preserve-order="true" verbose="2">
+        <parameter name="browser" value="EDGE"></parameter>
+        <packages>
+            <package name="sanitySuite"></package>
+        </packages>
+    </test>
+   
+</suite>

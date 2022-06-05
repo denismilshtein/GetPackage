@@ -1,0 +1,308 @@
+2022-06-05 12:50:30 INFO  Get Package Logger:58 - Logger is initialized..
+2022-06-05 12:50:31 INFO  Get Package Logger:103 - CHROME driver is initialized..
+2022-06-05 12:50:31 INFO  Get Package Logger:29 - trying to login with fake email
+2022-06-05 12:50:38 INFO  Get Package Logger:32 - Navigating to : https://sender.getpackage.com/login
+2022-06-05 12:50:38 INFO  Get Package Logger:57 - Login page is successfully loaded
+2022-06-05 12:50:39 INFO  Get Package Logger:46 - Click To Login By Email and Password is clicked
+2022-06-05 12:50:39 INFO  Get Package Logger:64 - fake_email_test is entered successfully in email field
+2022-06-05 12:50:39 INFO  Get Package Logger:84 - Getting wrong input message
+2022-06-05 12:50:39 INFO  Get Package Logger:188 - Actual string: [ * כתובת האימייל אינה תקינה ] does match with Expected string: [ * כתובת האימייל אינה תקינה ]
+2022-06-05 12:50:39 INFO  Get Package Logger:64 - fake_email_test@test.com is entered successfully in email field
+2022-06-05 12:50:39 INFO  Get Package Logger:51 - K2610951t is entered successfully in password field
+2022-06-05 12:50:40 INFO  Get Package Logger:46 - click on login button is clicked
+2022-06-05 12:50:40 INFO  Get Package Logger:79 - Getting wrong email or password message
+2022-06-05 12:50:40 INFO  Get Package Logger:204 - Given Condition: is true
+2022-06-05 12:50:41 INFO  Get Package Logger:218 - Closing Browser.
+2022-06-05 12:50:41 INFO  Get Package Logger:103 - CHROME driver is initialized..
+2022-06-05 12:50:41 INFO  Get Package Logger:38 - trying to login without password, then with wrong password
+2022-06-05 12:50:50 INFO  Get Package Logger:32 - Navigating to : https://sender.getpackage.com/login
+2022-06-05 12:50:50 INFO  Get Package Logger:57 - Login page is successfully loaded
+2022-06-05 12:50:50 INFO  Get Package Logger:46 - Click To Login By Email and Password is clicked
+2022-06-05 12:50:50 INFO  Get Package Logger:64 - milshteindenis@gmail.com is entered successfully in email field
+2022-06-05 12:50:51 INFO  Get Package Logger:46 - click on login button is clicked
+2022-06-05 12:50:51 INFO  Get Package Logger:84 - Getting wrong input message
+2022-06-05 12:50:51 INFO  Get Package Logger:188 - Actual string: [ * נדרש ] does match with Expected string: [ * נדרש ]
+2022-06-05 12:50:51 INFO  Get Package Logger:51 - 123456 is entered successfully in password field
+2022-06-05 12:50:51 INFO  Get Package Logger:46 - click on login button is clicked
+2022-06-05 12:50:51 INFO  Get Package Logger:79 - Getting wrong email or password message
+2022-06-05 12:50:51 INFO  Get Package Logger:204 - Given Condition: is true
+2022-06-05 12:50:51 INFO  Get Package Logger:218 - Closing Browser.
+2022-06-05 12:50:52 INFO  Get Package Logger:103 - CHROME driver is initialized..
+2022-06-05 12:50:52 INFO  Get Package Logger:60 - set source and result directories for responsive design test of login page
+2022-06-05 12:50:52 INFO  Get Package Logger:67 - set dimension for responsive design test of login page
+2022-06-05 12:51:00 INFO  Get Package Logger:32 - Navigating to : https://sender.getpackage.com/login
+2022-06-05 12:51:00 INFO  Get Package Logger:57 - Login page is successfully loaded
+2022-06-05 12:51:01 INFO  Get Package Logger:218 - Closing Browser.
+2022-06-05 12:51:02 INFO  Get Package Logger:103 - CHROME driver is initialized..
+2022-06-05 12:51:02 INFO  Get Package Logger:47 - trying to login with real email and password
+2022-06-05 12:51:04 INFO  Get Package Logger:32 - Navigating to : https://sender.getpackage.com/login
+2022-06-05 12:51:04 INFO  Get Package Logger:57 - Login page is successfully loaded
+2022-06-05 12:51:04 INFO  Get Package Logger:46 - Click To Login By Email and Password is clicked
+2022-06-05 12:51:04 INFO  Get Package Logger:64 - milshteindenis@gmail.com is entered successfully in email field
+2022-06-05 12:51:04 INFO  Get Package Logger:51 - K2610951t is entered successfully in password field
+2022-06-05 12:51:05 INFO  Get Package Logger:46 - click on login button is clicked
+2022-06-05 12:51:06 INFO  Get Package Logger:204 - Given Condition: is true
+2022-06-05 12:51:06 INFO  Get Package Logger:218 - Closing Browser.
+2022-06-05 12:51:06 INFO  Get Package Logger:103 - CHROME driver is initialized..
+2022-06-05 12:51:07 INFO  Get Package Logger:21 - login to real user account and navigate to create delivery page
+2022-06-05 12:51:09 INFO  Get Package Logger:32 - Navigating to : https://sender.getpackage.com/login
+2022-06-05 12:51:09 INFO  Get Package Logger:57 - Login page is successfully loaded
+2022-06-05 12:51:09 INFO  Get Package Logger:46 - Click To Login By Email and Password is clicked
+2022-06-05 12:51:09 INFO  Get Package Logger:64 - milshteindenis@gmail.com is entered successfully in email field
+2022-06-05 12:51:09 INFO  Get Package Logger:51 - K2610951t is entered successfully in password field
+2022-06-05 12:51:10 INFO  Get Package Logger:46 - click on login button is clicked
+2022-06-05 12:51:13 INFO  Get Package Logger:32 - Navigating to : https://sender.getpackage.com/create-delivery
+2022-06-05 12:51:13 INFO  Get Package Logger:18 - Create Delivery page is successfully loaded
+2022-06-05 12:51:13 INFO  Get Package Logger:204 - Given Condition: is true
+2022-06-05 12:51:13 INFO  Get Package Logger:24 - Perform base validation on first loading
+2022-06-05 12:51:13 INFO  Get Package Logger:72 - Address field is present
+2022-06-05 12:51:13 INFO  Get Package Logger:72 - Package size block is present
+2022-06-05 12:51:23 INFO  Get Package Logger:75 - Service type selection block is not present
+2022-06-05 12:51:23 INFO  Get Package Logger:204 - Given Condition: is true
+2022-06-05 12:51:24 INFO  Get Package Logger:218 - Closing Browser.
+2022-06-05 12:52:29 INFO  Get Package Logger:58 - Logger is initialized..
+2022-06-05 12:52:30 INFO  Get Package Logger:103 - CHROME driver is initialized..
+2022-06-05 12:52:30 INFO  Get Package Logger:29 - trying to login with fake email
+2022-06-05 12:52:34 INFO  Get Package Logger:32 - Navigating to : https://sender.getpackage.com/login
+2022-06-05 12:52:34 INFO  Get Package Logger:57 - Login page is successfully loaded
+2022-06-05 12:52:34 INFO  Get Package Logger:46 - Click To Login By Email and Password is clicked
+2022-06-05 12:52:35 INFO  Get Package Logger:64 - fake_email_test is entered successfully in email field
+2022-06-05 12:52:35 INFO  Get Package Logger:84 - Getting wrong input message
+2022-06-05 12:52:35 INFO  Get Package Logger:188 - Actual string: [ * כתובת האימייל אינה תקינה ] does match with Expected string: [ * כתובת האימייל אינה תקינה ]
+2022-06-05 12:52:35 INFO  Get Package Logger:64 - fake_email_test@test.com is entered successfully in email field
+2022-06-05 12:52:35 INFO  Get Package Logger:51 - K2610951t is entered successfully in password field
+2022-06-05 12:52:35 INFO  Get Package Logger:46 - click on login button is clicked
+2022-06-05 12:52:35 INFO  Get Package Logger:79 - Getting wrong email or password message
+2022-06-05 12:52:36 INFO  Get Package Logger:204 - Given Condition: is true
+2022-06-05 12:52:36 INFO  Get Package Logger:218 - Closing Browser.
+2022-06-05 12:52:36 INFO  Get Package Logger:103 - CHROME driver is initialized..
+2022-06-05 12:52:37 INFO  Get Package Logger:38 - trying to login without password, then with wrong password
+2022-06-05 12:52:40 INFO  Get Package Logger:32 - Navigating to : https://sender.getpackage.com/login
+2022-06-05 12:52:40 INFO  Get Package Logger:57 - Login page is successfully loaded
+2022-06-05 12:52:41 INFO  Get Package Logger:46 - Click To Login By Email and Password is clicked
+2022-06-05 12:52:41 INFO  Get Package Logger:64 - milshteindenis@gmail.com is entered successfully in email field
+2022-06-05 12:52:41 INFO  Get Package Logger:46 - click on login button is clicked
+2022-06-05 12:52:41 INFO  Get Package Logger:84 - Getting wrong input message
+2022-06-05 12:52:41 INFO  Get Package Logger:188 - Actual string: [ * נדרש ] does match with Expected string: [ * נדרש ]
+2022-06-05 12:52:41 INFO  Get Package Logger:51 - 123456 is entered successfully in password field
+2022-06-05 12:52:41 INFO  Get Package Logger:46 - click on login button is clicked
+2022-06-05 12:52:41 INFO  Get Package Logger:79 - Getting wrong email or password message
+2022-06-05 12:52:42 INFO  Get Package Logger:204 - Given Condition: is true
+2022-06-05 12:52:42 INFO  Get Package Logger:218 - Closing Browser.
+2022-06-05 12:52:43 INFO  Get Package Logger:103 - CHROME driver is initialized..
+2022-06-05 12:52:43 INFO  Get Package Logger:60 - set source and result directories for responsive design test of login page
+2022-06-05 12:52:43 INFO  Get Package Logger:67 - set dimension for responsive design test of login page
+2022-06-05 12:52:47 INFO  Get Package Logger:32 - Navigating to : https://sender.getpackage.com/login
+2022-06-05 12:52:47 INFO  Get Package Logger:57 - Login page is successfully loaded
+2022-06-05 12:52:47 INFO  Get Package Logger:218 - Closing Browser.
+2022-06-05 12:52:48 INFO  Get Package Logger:103 - CHROME driver is initialized..
+2022-06-05 12:52:48 INFO  Get Package Logger:47 - trying to login with real email and password
+2022-06-05 12:52:52 INFO  Get Package Logger:32 - Navigating to : https://sender.getpackage.com/login
+2022-06-05 12:52:52 INFO  Get Package Logger:57 - Login page is successfully loaded
+2022-06-05 12:52:52 INFO  Get Package Logger:46 - Click To Login By Email and Password is clicked
+2022-06-05 12:52:52 INFO  Get Package Logger:64 - milshteindenis@gmail.com is entered successfully in email field
+2022-06-05 12:52:52 INFO  Get Package Logger:51 - K2610951t is entered successfully in password field
+2022-06-05 12:52:52 INFO  Get Package Logger:46 - click on login button is clicked
+2022-06-05 12:52:53 INFO  Get Package Logger:204 - Given Condition: is true
+2022-06-05 12:52:53 INFO  Get Package Logger:218 - Closing Browser.
+2022-06-05 12:52:54 INFO  Get Package Logger:103 - CHROME driver is initialized..
+2022-06-05 12:52:54 INFO  Get Package Logger:21 - login to real user account and navigate to create delivery page
+2022-06-05 12:52:58 INFO  Get Package Logger:32 - Navigating to : https://sender.getpackage.com/login
+2022-06-05 12:52:58 INFO  Get Package Logger:57 - Login page is successfully loaded
+2022-06-05 12:52:58 INFO  Get Package Logger:46 - Click To Login By Email and Password is clicked
+2022-06-05 12:52:58 INFO  Get Package Logger:64 - milshteindenis@gmail.com is entered successfully in email field
+2022-06-05 12:52:58 INFO  Get Package Logger:51 - K2610951t is entered successfully in password field
+2022-06-05 12:52:59 INFO  Get Package Logger:46 - click on login button is clicked
+2022-06-05 12:53:01 INFO  Get Package Logger:32 - Navigating to : https://sender.getpackage.com/create-delivery
+2022-06-05 12:53:01 INFO  Get Package Logger:18 - Create Delivery page is successfully loaded
+2022-06-05 12:53:01 INFO  Get Package Logger:204 - Given Condition: is true
+2022-06-05 12:53:01 INFO  Get Package Logger:24 - Perform base validation on first loading
+2022-06-05 12:53:01 INFO  Get Package Logger:72 - Address field is present
+2022-06-05 12:53:01 INFO  Get Package Logger:72 - Package size block is present
+2022-06-05 12:53:11 INFO  Get Package Logger:75 - Service type selection block is not present
+2022-06-05 12:53:11 INFO  Get Package Logger:204 - Given Condition: is true
+2022-06-05 12:53:11 INFO  Get Package Logger:218 - Closing Browser.
+2022-06-05 12:55:20 INFO  Get Package Logger:58 - Logger is initialized..
+2022-06-05 12:55:21 INFO  Get Package Logger:103 - CHROME driver is initialized..
+2022-06-05 12:55:21 INFO  Get Package Logger:29 - trying to login with fake email
+2022-06-05 12:55:25 INFO  Get Package Logger:32 - Navigating to : https://sender.getpackage.com/login
+2022-06-05 12:55:26 INFO  Get Package Logger:57 - Login page is successfully loaded
+2022-06-05 12:55:26 INFO  Get Package Logger:46 - Click To Login By Email and Password is clicked
+2022-06-05 12:55:26 INFO  Get Package Logger:64 - fake_email_test is entered successfully in email field
+2022-06-05 12:55:26 INFO  Get Package Logger:84 - Getting wrong input message
+2022-06-05 12:55:26 INFO  Get Package Logger:188 - Actual string: [ * כתובת האימייל אינה תקינה ] does match with Expected string: [ * כתובת האימייל אינה תקינה ]
+2022-06-05 12:55:26 INFO  Get Package Logger:64 - fake_email_test@test.com is entered successfully in email field
+2022-06-05 12:55:26 INFO  Get Package Logger:51 - K2610951t is entered successfully in password field
+2022-06-05 12:55:27 INFO  Get Package Logger:46 - click on login button is clicked
+2022-06-05 12:55:27 INFO  Get Package Logger:79 - Getting wrong email or password message
+2022-06-05 12:55:27 INFO  Get Package Logger:204 - Given Condition: is true
+2022-06-05 12:55:27 INFO  Get Package Logger:218 - Closing Browser.
+2022-06-05 12:55:28 INFO  Get Package Logger:103 - CHROME driver is initialized..
+2022-06-05 12:55:28 INFO  Get Package Logger:38 - trying to login without password, then with wrong password
+2022-06-05 12:55:32 INFO  Get Package Logger:32 - Navigating to : https://sender.getpackage.com/login
+2022-06-05 12:55:32 INFO  Get Package Logger:57 - Login page is successfully loaded
+2022-06-05 12:55:32 INFO  Get Package Logger:46 - Click To Login By Email and Password is clicked
+2022-06-05 12:55:32 INFO  Get Package Logger:64 - milshteindenis@gmail.com is entered successfully in email field
+2022-06-05 12:55:33 INFO  Get Package Logger:46 - click on login button is clicked
+2022-06-05 12:55:33 INFO  Get Package Logger:84 - Getting wrong input message
+2022-06-05 12:55:33 INFO  Get Package Logger:188 - Actual string: [ * נדרש ] does match with Expected string: [ * נדרש ]
+2022-06-05 12:55:33 INFO  Get Package Logger:51 - 123456 is entered successfully in password field
+2022-06-05 12:55:33 INFO  Get Package Logger:46 - click on login button is clicked
+2022-06-05 12:55:33 INFO  Get Package Logger:79 - Getting wrong email or password message
+2022-06-05 12:55:33 INFO  Get Package Logger:204 - Given Condition: is true
+2022-06-05 12:55:33 INFO  Get Package Logger:218 - Closing Browser.
+2022-06-05 12:55:34 INFO  Get Package Logger:103 - CHROME driver is initialized..
+2022-06-05 12:55:34 INFO  Get Package Logger:60 - set source and result directories for responsive design test of login page
+2022-06-05 12:55:34 INFO  Get Package Logger:67 - set dimension for responsive design test of login page
+2022-06-05 12:55:38 INFO  Get Package Logger:32 - Navigating to : https://sender.getpackage.com/login
+2022-06-05 12:55:38 INFO  Get Package Logger:57 - Login page is successfully loaded
+2022-06-05 12:55:39 INFO  Get Package Logger:218 - Closing Browser.
+2022-06-05 12:55:39 INFO  Get Package Logger:103 - CHROME driver is initialized..
+2022-06-05 12:55:39 INFO  Get Package Logger:47 - trying to login with real email and password
+2022-06-05 12:55:42 INFO  Get Package Logger:32 - Navigating to : https://sender.getpackage.com/login
+2022-06-05 12:55:42 INFO  Get Package Logger:57 - Login page is successfully loaded
+2022-06-05 12:55:43 INFO  Get Package Logger:46 - Click To Login By Email and Password is clicked
+2022-06-05 12:55:43 INFO  Get Package Logger:64 - milshteindenis@gmail.com is entered successfully in email field
+2022-06-05 12:55:43 INFO  Get Package Logger:51 - K2610951t is entered successfully in password field
+2022-06-05 12:55:43 INFO  Get Package Logger:46 - click on login button is clicked
+2022-06-05 12:55:44 INFO  Get Package Logger:204 - Given Condition: is true
+2022-06-05 12:55:44 INFO  Get Package Logger:218 - Closing Browser.
+2022-06-05 12:55:45 INFO  Get Package Logger:103 - CHROME driver is initialized..
+2022-06-05 12:55:45 INFO  Get Package Logger:21 - login to real user account and navigate to create delivery page
+2022-06-05 12:55:48 INFO  Get Package Logger:32 - Navigating to : https://sender.getpackage.com/login
+2022-06-05 12:55:48 INFO  Get Package Logger:57 - Login page is successfully loaded
+2022-06-05 12:55:48 INFO  Get Package Logger:46 - Click To Login By Email and Password is clicked
+2022-06-05 12:55:48 INFO  Get Package Logger:64 - milshteindenis@gmail.com is entered successfully in email field
+2022-06-05 12:55:48 INFO  Get Package Logger:51 - K2610951t is entered successfully in password field
+2022-06-05 12:55:48 INFO  Get Package Logger:46 - click on login button is clicked
+2022-06-05 12:55:51 INFO  Get Package Logger:32 - Navigating to : https://sender.getpackage.com/create-delivery
+2022-06-05 12:55:51 INFO  Get Package Logger:18 - Create Delivery page is successfully loaded
+2022-06-05 12:55:51 INFO  Get Package Logger:204 - Given Condition: is true
+2022-06-05 12:55:51 INFO  Get Package Logger:24 - Perform base validation on first loading
+2022-06-05 12:55:51 INFO  Get Package Logger:72 - Address field is present
+2022-06-05 12:55:51 INFO  Get Package Logger:72 - Package size block is present
+2022-06-05 12:56:01 INFO  Get Package Logger:75 - Service type selection block is not present
+2022-06-05 12:56:01 INFO  Get Package Logger:204 - Given Condition: is true
+2022-06-05 12:56:01 INFO  Get Package Logger:218 - Closing Browser.
+2022-06-05 12:56:04 INFO  Get Package Logger:92 - FIREFOX driver is initialized..
+2022-06-05 12:56:04 INFO  Get Package Logger:29 - trying to login with fake email
+2022-06-05 12:56:07 INFO  Get Package Logger:32 - Navigating to : https://sender.getpackage.com/login
+2022-06-05 12:56:07 INFO  Get Package Logger:57 - Login page is successfully loaded
+2022-06-05 12:56:08 INFO  Get Package Logger:46 - Click To Login By Email and Password is clicked
+2022-06-05 12:56:08 INFO  Get Package Logger:64 - fake_email_test is entered successfully in email field
+2022-06-05 12:56:08 INFO  Get Package Logger:84 - Getting wrong input message
+2022-06-05 12:56:08 INFO  Get Package Logger:188 - Actual string: [ * כתובת האימייל אינה תקינה ] does match with Expected string: [ * כתובת האימייל אינה תקינה ]
+2022-06-05 12:56:08 INFO  Get Package Logger:64 - fake_email_test@test.com is entered successfully in email field
+2022-06-05 12:56:08 INFO  Get Package Logger:51 - K2610951t is entered successfully in password field
+2022-06-05 12:56:09 INFO  Get Package Logger:46 - click on login button is clicked
+2022-06-05 12:56:09 INFO  Get Package Logger:79 - Getting wrong email or password message
+2022-06-05 12:56:09 INFO  Get Package Logger:204 - Given Condition: is true
+2022-06-05 12:56:09 INFO  Get Package Logger:218 - Closing Browser.
+2022-06-05 12:56:11 INFO  Get Package Logger:92 - FIREFOX driver is initialized..
+2022-06-05 12:56:11 INFO  Get Package Logger:38 - trying to login without password, then with wrong password
+2022-06-05 12:56:22 INFO  Get Package Logger:32 - Navigating to : https://sender.getpackage.com/login
+2022-06-05 12:56:22 INFO  Get Package Logger:57 - Login page is successfully loaded
+2022-06-05 12:56:22 INFO  Get Package Logger:46 - Click To Login By Email and Password is clicked
+2022-06-05 12:56:22 INFO  Get Package Logger:64 - milshteindenis@gmail.com is entered successfully in email field
+2022-06-05 12:56:23 INFO  Get Package Logger:46 - click on login button is clicked
+2022-06-05 12:56:23 INFO  Get Package Logger:84 - Getting wrong input message
+2022-06-05 12:56:23 INFO  Get Package Logger:188 - Actual string: [ * נדרש ] does match with Expected string: [ * נדרש ]
+2022-06-05 12:56:23 INFO  Get Package Logger:51 - 123456 is entered successfully in password field
+2022-06-05 12:56:23 INFO  Get Package Logger:46 - click on login button is clicked
+2022-06-05 12:56:23 INFO  Get Package Logger:79 - Getting wrong email or password message
+2022-06-05 12:56:23 INFO  Get Package Logger:204 - Given Condition: is true
+2022-06-05 12:56:24 INFO  Get Package Logger:218 - Closing Browser.
+2022-06-05 12:56:26 INFO  Get Package Logger:92 - FIREFOX driver is initialized..
+2022-06-05 12:56:26 INFO  Get Package Logger:60 - set source and result directories for responsive design test of login page
+2022-06-05 12:56:26 INFO  Get Package Logger:67 - set dimension for responsive design test of login page
+2022-06-05 12:56:31 INFO  Get Package Logger:32 - Navigating to : https://sender.getpackage.com/login
+2022-06-05 12:56:31 INFO  Get Package Logger:57 - Login page is successfully loaded
+2022-06-05 12:56:32 INFO  Get Package Logger:218 - Closing Browser.
+2022-06-05 12:56:33 INFO  Get Package Logger:92 - FIREFOX driver is initialized..
+2022-06-05 12:56:33 INFO  Get Package Logger:47 - trying to login with real email and password
+2022-06-05 12:56:37 INFO  Get Package Logger:32 - Navigating to : https://sender.getpackage.com/login
+2022-06-05 12:56:37 INFO  Get Package Logger:57 - Login page is successfully loaded
+2022-06-05 12:56:38 INFO  Get Package Logger:46 - Click To Login By Email and Password is clicked
+2022-06-05 12:56:38 INFO  Get Package Logger:64 - milshteindenis@gmail.com is entered successfully in email field
+2022-06-05 12:56:38 INFO  Get Package Logger:51 - K2610951t is entered successfully in password field
+2022-06-05 12:56:38 INFO  Get Package Logger:46 - click on login button is clicked
+2022-06-05 12:56:39 INFO  Get Package Logger:204 - Given Condition: is true
+2022-06-05 12:56:40 INFO  Get Package Logger:218 - Closing Browser.
+2022-06-05 12:56:41 INFO  Get Package Logger:92 - FIREFOX driver is initialized..
+2022-06-05 12:56:42 INFO  Get Package Logger:21 - login to real user account and navigate to create delivery page
+2022-06-05 12:56:49 INFO  Get Package Logger:32 - Navigating to : https://sender.getpackage.com/login
+2022-06-05 12:56:49 INFO  Get Package Logger:57 - Login page is successfully loaded
+2022-06-05 12:56:50 INFO  Get Package Logger:46 - Click To Login By Email and Password is clicked
+2022-06-05 12:56:50 INFO  Get Package Logger:64 - milshteindenis@gmail.com is entered successfully in email field
+2022-06-05 12:56:50 INFO  Get Package Logger:51 - K2610951t is entered successfully in password field
+2022-06-05 12:56:51 INFO  Get Package Logger:46 - click on login button is clicked
+2022-06-05 12:56:54 INFO  Get Package Logger:32 - Navigating to : https://sender.getpackage.com/create-delivery
+2022-06-05 12:56:54 INFO  Get Package Logger:18 - Create Delivery page is successfully loaded
+2022-06-05 12:56:54 INFO  Get Package Logger:204 - Given Condition: is true
+2022-06-05 12:56:54 INFO  Get Package Logger:24 - Perform base validation on first loading
+2022-06-05 12:56:54 INFO  Get Package Logger:72 - Address field is present
+2022-06-05 12:56:54 INFO  Get Package Logger:72 - Package size block is present
+2022-06-05 12:57:04 INFO  Get Package Logger:75 - Service type selection block is not present
+2022-06-05 12:57:04 INFO  Get Package Logger:204 - Given Condition: is true
+2022-06-05 12:57:05 INFO  Get Package Logger:218 - Closing Browser.
+2022-06-05 12:57:07 INFO  Get Package Logger:109 - EDGE driver is initialized..
+2022-06-05 12:57:07 INFO  Get Package Logger:29 - trying to login with fake email
+2022-06-05 12:57:17 INFO  Get Package Logger:32 - Navigating to : https://sender.getpackage.com/login
+2022-06-05 12:57:17 INFO  Get Package Logger:57 - Login page is successfully loaded
+2022-06-05 12:57:17 INFO  Get Package Logger:46 - Click To Login By Email and Password is clicked
+2022-06-05 12:57:18 INFO  Get Package Logger:64 - fake_email_test is entered successfully in email field
+2022-06-05 12:57:18 INFO  Get Package Logger:84 - Getting wrong input message
+2022-06-05 12:57:18 INFO  Get Package Logger:188 - Actual string: [ * כתובת האימייל אינה תקינה ] does match with Expected string: [ * כתובת האימייל אינה תקינה ]
+2022-06-05 12:57:18 INFO  Get Package Logger:64 - fake_email_test@test.com is entered successfully in email field
+2022-06-05 12:57:18 INFO  Get Package Logger:51 - K2610951t is entered successfully in password field
+2022-06-05 12:57:18 INFO  Get Package Logger:46 - click on login button is clicked
+2022-06-05 12:57:18 INFO  Get Package Logger:79 - Getting wrong email or password message
+2022-06-05 12:57:19 INFO  Get Package Logger:204 - Given Condition: is true
+2022-06-05 12:57:19 INFO  Get Package Logger:218 - Closing Browser.
+2022-06-05 12:57:22 INFO  Get Package Logger:109 - EDGE driver is initialized..
+2022-06-05 12:57:22 INFO  Get Package Logger:38 - trying to login without password, then with wrong password
+2022-06-05 12:57:33 INFO  Get Package Logger:32 - Navigating to : https://sender.getpackage.com/login
+2022-06-05 12:57:33 INFO  Get Package Logger:57 - Login page is successfully loaded
+2022-06-05 12:57:33 INFO  Get Package Logger:46 - Click To Login By Email and Password is clicked
+2022-06-05 12:57:33 INFO  Get Package Logger:64 - milshteindenis@gmail.com is entered successfully in email field
+2022-06-05 12:57:34 INFO  Get Package Logger:46 - click on login button is clicked
+2022-06-05 12:57:34 INFO  Get Package Logger:84 - Getting wrong input message
+2022-06-05 12:57:34 INFO  Get Package Logger:188 - Actual string: [ * נדרש ] does match with Expected string: [ * נדרש ]
+2022-06-05 12:57:34 INFO  Get Package Logger:51 - 123456 is entered successfully in password field
+2022-06-05 12:57:34 INFO  Get Package Logger:46 - click on login button is clicked
+2022-06-05 12:57:34 INFO  Get Package Logger:79 - Getting wrong email or password message
+2022-06-05 12:57:34 INFO  Get Package Logger:204 - Given Condition: is true
+2022-06-05 12:57:34 INFO  Get Package Logger:218 - Closing Browser.
+2022-06-05 12:57:37 INFO  Get Package Logger:109 - EDGE driver is initialized..
+2022-06-05 12:57:37 INFO  Get Package Logger:60 - set source and result directories for responsive design test of login page
+2022-06-05 12:57:37 INFO  Get Package Logger:67 - set dimension for responsive design test of login page
+2022-06-05 12:57:41 INFO  Get Package Logger:32 - Navigating to : https://sender.getpackage.com/login
+2022-06-05 12:57:41 INFO  Get Package Logger:57 - Login page is successfully loaded
+2022-06-05 12:57:42 INFO  Get Package Logger:218 - Closing Browser.
+2022-06-05 12:57:44 INFO  Get Package Logger:109 - EDGE driver is initialized..
+2022-06-05 12:57:44 INFO  Get Package Logger:47 - trying to login with real email and password
+2022-06-05 12:57:48 INFO  Get Package Logger:32 - Navigating to : https://sender.getpackage.com/login
+2022-06-05 12:57:48 INFO  Get Package Logger:57 - Login page is successfully loaded
+2022-06-05 12:57:48 INFO  Get Package Logger:46 - Click To Login By Email and Password is clicked
+2022-06-05 12:57:49 INFO  Get Package Logger:64 - milshteindenis@gmail.com is entered successfully in email field
+2022-06-05 12:57:49 INFO  Get Package Logger:51 - K2610951t is entered successfully in password field
+2022-06-05 12:57:49 INFO  Get Package Logger:46 - click on login button is clicked
+2022-06-05 12:57:50 INFO  Get Package Logger:204 - Given Condition: is true
+2022-06-05 12:57:50 INFO  Get Package Logger:218 - Closing Browser.
+2022-06-05 12:57:52 INFO  Get Package Logger:109 - EDGE driver is initialized..
+2022-06-05 12:57:52 INFO  Get Package Logger:21 - login to real user account and navigate to create delivery page
+2022-06-05 12:58:01 INFO  Get Package Logger:32 - Navigating to : https://sender.getpackage.com/login
+2022-06-05 12:58:01 INFO  Get Package Logger:57 - Login page is successfully loaded
+2022-06-05 12:58:01 INFO  Get Package Logger:46 - Click To Login By Email and Password is clicked
+2022-06-05 12:58:01 INFO  Get Package Logger:64 - milshteindenis@gmail.com is entered successfully in email field
+2022-06-05 12:58:01 INFO  Get Package Logger:51 - K2610951t is entered successfully in password field
+2022-06-05 12:58:02 INFO  Get Package Logger:46 - click on login button is clicked
+2022-06-05 12:58:05 INFO  Get Package Logger:32 - Navigating to : https://sender.getpackage.com/create-delivery
+2022-06-05 12:58:05 INFO  Get Package Logger:18 - Create Delivery page is successfully loaded
+2022-06-05 12:58:05 INFO  Get Package Logger:204 - Given Condition: is true
+2022-06-05 12:58:05 INFO  Get Package Logger:24 - Perform base validation on first loading
+2022-06-05 12:58:05 INFO  Get Package Logger:72 - Address field is present
+2022-06-05 12:58:05 INFO  Get Package Logger:72 - Package size block is present
+2022-06-05 12:58:15 INFO  Get Package Logger:75 - Service type selection block is not present
+2022-06-05 12:58:15 INFO  Get Package Logger:204 - Given Condition: is true
+2022-06-05 12:58:15 INFO  Get Package Logger:218 - Closing Browser.

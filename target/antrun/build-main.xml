@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <echo>Dev Environment</echo>
+  <delete file="C:\Users\denis\IdeaProjects\GetPackage\config\data.properties"/>
+  <copy file="C:\Users\denis\IdeaProjects\GetPackage\config\data_dev.properties" tofile="C:\Users\denis\IdeaProjects\GetPackage\config\data.properties"/>
+</target>
+</project>

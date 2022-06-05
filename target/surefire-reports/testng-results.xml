@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-05T09:55:20Z" name="TestAutomation-SanitySuite" finished-at="2022-06-05T09:58:15Z" duration-ms="175095">
+    <groups>
+    </groups>
+    <test started-at="2022-06-05T09:55:20Z" name="Sanity Tests execution over Chrome Browser" finished-at="2022-06-05T09:56:01Z" duration-ms="41127">
+      <class name="sanitySuite.LoginPageTest">
+        <test-method is-config="true" signature="init(java.lang.String)[pri:0, instance:sanitySuite.LoginPageTest@54d9d12d]" started-at="2022-06-05T12:55:20Z" name="init" finished-at="2022-06-05T12:55:21Z" duration-ms="1157" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:sanitySuite.LoginPageTest@54d9d12d]" started-at="2022-06-05T12:55:21Z" name="beforeMethod" finished-at="2022-06-05T12:55:21Z" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="wrong_email_login_attempt()[pri:1, instance:sanitySuite.LoginPageTest@54d9d12d]" started-at="2022-06-05T12:55:21Z" name="wrong_email_login_attempt" description="Not valid email test case" finished-at="2022-06-05T12:55:27Z" duration-ms="5867" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrong_email_login_attempt -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:sanitySuite.LoginPageTest@54d9d12d]" started-at="2022-06-05T12:55:27Z" name="tearDown" finished-at="2022-06-05T12:55:27Z" duration-ms="163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="init(java.lang.String)[pri:0, instance:sanitySuite.LoginPageTest@54d9d12d]" started-at="2022-06-05T12:55:27Z" name="init" finished-at="2022-06-05T12:55:28Z" duration-ms="899" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:sanitySuite.LoginPageTest@54d9d12d]" started-at="2022-06-05T12:55:28Z" name="beforeMethod" finished-at="2022-06-05T12:55:28Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="wrong_password_login_attempt()[pri:2, instance:sanitySuite.LoginPageTest@54d9d12d]" started-at="2022-06-05T12:55:28Z" name="wrong_password_login_attempt" description="Wrong password test case" finished-at="2022-06-05T12:55:33Z" duration-ms="4728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrong_password_login_attempt -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:sanitySuite.LoginPageTest@54d9d12d]" started-at="2022-06-05T12:55:33Z" name="tearDown" finished-at="2022-06-05T12:55:33Z" duration-ms="153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="init(java.lang.String)[pri:0, instance:sanitySuite.LoginPageTest@54d9d12d]" started-at="2022-06-05T12:55:33Z" name="init" finished-at="2022-06-05T12:55:34Z" duration-ms="887" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:sanitySuite.LoginPageTest@54d9d12d]" started-at="2022-06-05T12:55:34Z" name="beforeMethod" finished-at="2022-06-05T12:55:34Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="responsive_login_page_test()[pri:3, instance:sanitySuite.LoginPageTest@54d9d12d]" started-at="2022-06-05T12:55:34Z" name="responsive_login_page_test" description="Responsive design test" finished-at="2022-06-05T12:55:38Z" duration-ms="4336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- responsive_login_page_test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:sanitySuite.LoginPageTest@54d9d12d]" started-at="2022-06-05T12:55:38Z" name="tearDown" finished-at="2022-06-05T12:55:39Z" duration-ms="139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="init(java.lang.String)[pri:0, instance:sanitySuite.LoginPageTest@54d9d12d]" started-at="2022-06-05T12:55:39Z" name="init" finished-at="2022-06-05T12:55:39Z" duration-ms="929" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:sanitySuite.LoginPageTest@54d9d12d]" started-at="2022-06-05T12:55:39Z" name="beforeMethod" finished-at="2022-06-05T12:55:39Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="real_email_and_password_login_verify()[pri:4, instance:sanitySuite.LoginPageTest@54d9d12d]" started-at="2022-06-05T12:55:39Z" name="real_email_and_password_login_verify" description="Real login test case" finished-at="2022-06-05T12:55:44Z" duration-ms="4906" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- real_email_and_password_login_verify -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:sanitySuite.LoginPageTest@54d9d12d]" started-at="2022-06-05T12:55:44Z" name="tearDown" finished-at="2022-06-05T12:55:44Z" duration-ms="130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- sanitySuite.LoginPageTest -->
+      <class name="sanitySuite.CreateDeliveryTest">
+        <test-method is-config="true" signature="init(java.lang.String)[pri:0, instance:sanitySuite.CreateDeliveryTest@3c41ed1d]" started-at="2022-06-05T12:55:44Z" name="init" finished-at="2022-06-05T12:55:45Z" duration-ms="777" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:sanitySuite.CreateDeliveryTest@3c41ed1d]" started-at="2022-06-05T12:55:45Z" name="beforeMethod" finished-at="2022-06-05T12:55:45Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="login_to_real_account_and_navigate_to_create_delivery()[pri:5, instance:sanitySuite.CreateDeliveryTest@3c41ed1d]" started-at="2022-06-05T12:55:45Z" name="login_to_real_account_and_navigate_to_create_delivery" description="Navigate to create delivery page" finished-at="2022-06-05T12:56:01Z" duration-ms="15855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_to_real_account_and_navigate_to_create_delivery -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:sanitySuite.CreateDeliveryTest@3c41ed1d]" started-at="2022-06-05T12:56:01Z" name="tearDown" finished-at="2022-06-05T12:56:01Z" duration-ms="153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- sanitySuite.CreateDeliveryTest -->
+    </test> <!-- Sanity Tests execution over Chrome Browser -->
+    <test started-at="2022-06-05T09:56:01Z" name="Sanity Tests execution over Firefox Browser" finished-at="2022-06-05T09:57:05Z" duration-ms="63474">
+      <class name="sanitySuite.CreateDeliveryTest">
+        <test-method is-config="true" signature="init(java.lang.String)[pri:0, instance:sanitySuite.CreateDeliveryTest@682b2fa]" started-at="2022-06-05T12:56:40Z" name="init" finished-at="2022-06-05T12:56:42Z" duration-ms="1893" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="login_to_real_account_and_navigate_to_create_delivery()[pri:5, instance:sanitySuite.CreateDeliveryTest@682b2fa]" started-at="2022-06-05T12:56:42Z" name="login_to_real_account_and_navigate_to_create_delivery" description="Navigate to create delivery page" finished-at="2022-06-05T12:57:04Z" duration-ms="22485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_to_real_account_and_navigate_to_create_delivery -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:sanitySuite.CreateDeliveryTest@682b2fa]" started-at="2022-06-05T12:56:42Z" name="beforeMethod" finished-at="2022-06-05T12:56:42Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:sanitySuite.CreateDeliveryTest@682b2fa]" started-at="2022-06-05T12:57:04Z" name="tearDown" finished-at="2022-06-05T12:57:05Z" duration-ms="733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- sanitySuite.CreateDeliveryTest -->
+      <class name="sanitySuite.LoginPageTest">
+        <test-method is-config="true" signature="init(java.lang.String)[pri:0, instance:sanitySuite.LoginPageTest@217ed35e]" started-at="2022-06-05T12:56:01Z" name="init" finished-at="2022-06-05T12:56:04Z" duration-ms="2481" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:sanitySuite.LoginPageTest@217ed35e]" started-at="2022-06-05T12:56:04Z" name="beforeMethod" finished-at="2022-06-05T12:56:04Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="wrong_email_login_attempt()[pri:1, instance:sanitySuite.LoginPageTest@217ed35e]" started-at="2022-06-05T12:56:04Z" name="wrong_email_login_attempt" description="Not valid email test case" finished-at="2022-06-05T12:56:09Z" duration-ms="4885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrong_email_login_attempt -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:sanitySuite.LoginPageTest@217ed35e]" started-at="2022-06-05T12:56:09Z" name="tearDown" finished-at="2022-06-05T12:56:09Z" duration-ms="696" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="init(java.lang.String)[pri:0, instance:sanitySuite.LoginPageTest@217ed35e]" started-at="2022-06-05T12:56:09Z" name="init" finished-at="2022-06-05T12:56:11Z" duration-ms="1914" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:sanitySuite.LoginPageTest@217ed35e]" started-at="2022-06-05T12:56:11Z" name="beforeMethod" finished-at="2022-06-05T12:56:11Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="wrong_password_login_attempt()[pri:2, instance:sanitySuite.LoginPageTest@217ed35e]" started-at="2022-06-05T12:56:11Z" name="wrong_password_login_attempt" description="Wrong password test case" finished-at="2022-06-05T12:56:23Z" duration-ms="11838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrong_password_login_attempt -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:sanitySuite.LoginPageTest@217ed35e]" started-at="2022-06-05T12:56:23Z" name="tearDown" finished-at="2022-06-05T12:56:24Z" duration-ms="831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="init(java.lang.String)[pri:0, instance:sanitySuite.LoginPageTest@217ed35e]" started-at="2022-06-05T12:56:24Z" name="init" finished-at="2022-06-05T12:56:26Z" duration-ms="1901" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:sanitySuite.LoginPageTest@217ed35e]" started-at="2022-06-05T12:56:26Z" name="beforeMethod" finished-at="2022-06-05T12:56:26Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="responsive_login_page_test()[pri:3, instance:sanitySuite.LoginPageTest@217ed35e]" started-at="2022-06-05T12:56:26Z" name="responsive_login_page_test" description="Responsive design test" finished-at="2022-06-05T12:56:31Z" duration-ms="5020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- responsive_login_page_test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:sanitySuite.LoginPageTest@217ed35e]" started-at="2022-06-05T12:56:31Z" name="tearDown" finished-at="2022-06-05T12:56:32Z" duration-ms="694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="init(java.lang.String)[pri:0, instance:sanitySuite.LoginPageTest@217ed35e]" started-at="2022-06-05T12:56:32Z" name="init" finished-at="2022-06-05T12:56:33Z" duration-ms="1899" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="real_email_and_password_login_verify()[pri:4, instance:sanitySuite.LoginPageTest@217ed35e]" started-at="2022-06-05T12:56:33Z" name="real_email_and_password_login_verify" description="Real login test case" finished-at="2022-06-05T12:56:39Z" duration-ms="5489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- real_email_and_password_login_verify -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:sanitySuite.LoginPageTest@217ed35e]" started-at="2022-06-05T12:56:33Z" name="beforeMethod" finished-at="2022-06-05T12:56:33Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:sanitySuite.LoginPageTest@217ed35e]" started-at="2022-06-05T12:56:39Z" name="tearDown" finished-at="2022-06-05T12:56:40Z" duration-ms="712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- sanitySuite.LoginPageTest -->
+    </test> <!-- Sanity Tests execution over Firefox Browser -->
+    <test started-at="2022-06-05T09:57:05Z" name="Sanity Tests execution over Edge Browser" finished-at="2022-06-05T09:58:15Z" duration-ms="70473">
+      <class name="sanitySuite.CreateDeliveryTest">
+        <test-method is-config="true" signature="init(java.lang.String)[pri:0, instance:sanitySuite.CreateDeliveryTest@3eb25e1a]" started-at="2022-06-05T12:57:50Z" name="init" finished-at="2022-06-05T12:57:52Z" duration-ms="2347" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[EDGE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="login_to_real_account_and_navigate_to_create_delivery()[pri:5, instance:sanitySuite.CreateDeliveryTest@3eb25e1a]" started-at="2022-06-05T12:57:52Z" name="login_to_real_account_and_navigate_to_create_delivery" description="Navigate to create delivery page" finished-at="2022-06-05T12:58:15Z" duration-ms="22624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_to_real_account_and_navigate_to_create_delivery -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:sanitySuite.CreateDeliveryTest@3eb25e1a]" started-at="2022-06-05T12:57:52Z" name="beforeMethod" finished-at="2022-06-05T12:57:52Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:sanitySuite.CreateDeliveryTest@3eb25e1a]" started-at="2022-06-05T12:58:15Z" name="tearDown" finished-at="2022-06-05T12:58:15Z" duration-ms="267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- sanitySuite.CreateDeliveryTest -->
+      <class name="sanitySuite.LoginPageTest">
+        <test-method is-config="true" signature="init(java.lang.String)[pri:0, instance:sanitySuite.LoginPageTest@477b4cdf]" started-at="2022-06-05T12:57:05Z" name="init" finished-at="2022-06-05T12:57:07Z" duration-ms="2390" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[EDGE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="wrong_email_login_attempt()[pri:1, instance:sanitySuite.LoginPageTest@477b4cdf]" started-at="2022-06-05T12:57:07Z" name="wrong_email_login_attempt" description="Not valid email test case" finished-at="2022-06-05T12:57:19Z" duration-ms="11899" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrong_email_login_attempt -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:sanitySuite.LoginPageTest@477b4cdf]" started-at="2022-06-05T12:57:07Z" name="beforeMethod" finished-at="2022-06-05T12:57:07Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:sanitySuite.LoginPageTest@477b4cdf]" started-at="2022-06-05T12:57:19Z" name="tearDown" finished-at="2022-06-05T12:57:19Z" duration-ms="228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="init(java.lang.String)[pri:0, instance:sanitySuite.LoginPageTest@477b4cdf]" started-at="2022-06-05T12:57:19Z" name="init" finished-at="2022-06-05T12:57:22Z" duration-ms="2406" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[EDGE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:sanitySuite.LoginPageTest@477b4cdf]" started-at="2022-06-05T12:57:22Z" name="beforeMethod" finished-at="2022-06-05T12:57:22Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="wrong_password_login_attempt()[pri:2, instance:sanitySuite.LoginPageTest@477b4cdf]" started-at="2022-06-05T12:57:22Z" name="wrong_password_login_attempt" description="Wrong password test case" finished-at="2022-06-05T12:57:34Z" duration-ms="12549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrong_password_login_attempt -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:sanitySuite.LoginPageTest@477b4cdf]" started-at="2022-06-05T12:57:34Z" name="tearDown" finished-at="2022-06-05T12:57:34Z" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="init(java.lang.String)[pri:0, instance:sanitySuite.LoginPageTest@477b4cdf]" started-at="2022-06-05T12:57:34Z" name="init" finished-at="2022-06-05T12:57:37Z" duration-ms="2409" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[EDGE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="responsive_login_page_test()[pri:3, instance:sanitySuite.LoginPageTest@477b4cdf]" started-at="2022-06-05T12:57:37Z" name="responsive_login_page_test" description="Responsive design test" finished-at="2022-06-05T12:57:41Z" duration-ms="4602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- responsive_login_page_test -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:sanitySuite.LoginPageTest@477b4cdf]" started-at="2022-06-05T12:57:37Z" name="beforeMethod" finished-at="2022-06-05T12:57:37Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:sanitySuite.LoginPageTest@477b4cdf]" started-at="2022-06-05T12:57:41Z" name="tearDown" finished-at="2022-06-05T12:57:42Z" duration-ms="216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="init(java.lang.String)[pri:0, instance:sanitySuite.LoginPageTest@477b4cdf]" started-at="2022-06-05T12:57:42Z" name="init" finished-at="2022-06-05T12:57:44Z" duration-ms="2373" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[EDGE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:sanitySuite.LoginPageTest@477b4cdf]" started-at="2022-06-05T12:57:44Z" name="beforeMethod" finished-at="2022-06-05T12:57:44Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="real_email_and_password_login_verify()[pri:4, instance:sanitySuite.LoginPageTest@477b4cdf]" started-at="2022-06-05T12:57:44Z" name="real_email_and_password_login_verify" description="Real login test case" finished-at="2022-06-05T12:57:50Z" duration-ms="5747" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- real_email_and_password_login_verify -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:sanitySuite.LoginPageTest@477b4cdf]" started-at="2022-06-05T12:57:50Z" name="tearDown" finished-at="2022-06-05T12:57:50Z" duration-ms="198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- sanitySuite.LoginPageTest -->
+    </test> <!-- Sanity Tests execution over Edge Browser -->
+  </suite> <!-- TestAutomation-SanitySuite -->
+</testng-results>
